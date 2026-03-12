@@ -1,0 +1,7 @@
+{
+  "nome": "Smartphone XYZ",
+  "descricao": "Celular de última geração",
+  "preco": 1999.99,
+  "quantidadeEstoque": 10,
+  "vendedorId": 1
+}
